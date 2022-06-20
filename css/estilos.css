@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding: 0;
+   
+}
+body{
+    font-family: 'Roboto slab';
+}
+
+header{
+    background-color: #C1121F;
+    text-align: center;
+    
+}
+.imagen-inicio{
+    height: 900px;
+    width: 900px;
+}
+header h1{
+    color: #FDF0D5;
+}
+.logo{
+    height: 900px;
+    width: 900px;
+}
+nav.navbar {
+    background-color: #CC1414;
+}
+
+footer{
+    background: #003049;
+    
+    padding: 60px 0 30px 0;
+    margin: auto;
+overflow: hidden;
+text-align: center;
+}
+footer h3{
+    color: #FDF0D5;
+}
